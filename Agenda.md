@@ -20,6 +20,7 @@ _This is currently in draft stage and still developing. Input welcome, please us
  
 ## Days 2-3 (Aug 15-16)
 * 9:30am - 5.00pm: Work in subgroups
+* 12-1pm: _Lunch (catered)_
 * 5:00pm Afternoon Standup: Accomplishments and challenges of the day, goals for next day
 
 _Each subgroup to coordinate coffee and lunch breaks._
