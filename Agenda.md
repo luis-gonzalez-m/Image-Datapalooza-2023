@@ -4,11 +4,12 @@ _This is currently in draft stage and still developing. Input welcome, please us
 
 | Time | Activity | Lead |
 |------|----------|------|
-| 8:30am | _Arrival and getting set up_
-| 8:45 | Welcome | Hilmar
-| 9:00 | Keynotes | 
-| 9:40 | Intros: one minute per person | Everyone (be prepared)
-| 10:15 | _Coffee Break_
+| 8:00am | _Arrival and getting set up_
+| 8:15 | Welcome | Hilmar
+| 8:30 | Keynote and Data Stories | 
+| 9:10 | Intros: one minute per person | Everyone (be prepared)
+| 9:50 | Icebreaker | Dom Jebbia
+| 10:20 | _Coffee Break_
 | 10:30 | [Open Space](https://en.wikipedia.org/wiki/Open_Space_Technology) group pitches, part 1
 | 11:15 | Discussion and refinement 
 | 12:00 | [Open Space](https://en.wikipedia.org/wiki/Open_Space_Technology) group pitches, part 2
@@ -23,7 +24,7 @@ _This is currently in draft stage and still developing. Input welcome, please us
 * 12-1pm: _Lunch (catered)_
 * 5:00pm Afternoon Standup: Accomplishments and challenges of the day, goals for next day
 
-_Each subgroup to coordinate coffee and lunch breaks._
+_Each subgroup to coordinate coffee breaks._
 
 ## Day 4 (Aug 17)
 * 11:00am 
