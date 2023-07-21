@@ -8,7 +8,8 @@ This means the following policy holds for all digital products developed or crea
     * Scripts can simply be added to this GitHub repository. For more complex codebases, we recommend using a version control repository on GitHub, Gitlab, etc.
 
 3. Data, documents, tutorials, etc are to be released either to the public domain (for example, by applying a [CC-Zero](https://creativecommons.org/choose/zero/) waiver), or under terms no more restrictive than requiring attribution (such as [CC-BY](https://creativecommons.org/licenses/by/2.0/)).
-    * For ML-ready datasets, we recommend using [Hugging Face Dataset Hub](https://huggingface.co/docs/hub/datasets-overview), which provides for rich metadata description in the form of a [Dataset Card](https://huggingface.co/docs/hub/datasets-cards).
+    * For image and video datasets, this only applies to items that are not already licensed by (and thus used under license from) a third party.
+    * For ML-ready datasets, for storage, version control, and sharing we recommend using [Hugging Face Dataset Hub](https://huggingface.co/docs/hub/datasets-overview), which provides for rich metadata description in the form of a [Dataset Card](https://huggingface.co/docs/hub/datasets-cards).
 
 4. ML models are to be released under an [OSI-approved open source license](https://opensource.org/licenses/), or a [Responsible AI License](https://www.licenses.ai/ai-licenses) (RAIL) (in particular [Open RAIL-M](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses)), or to the public domain (for example, by applying a [CC-Zero](https://creativecommons.org/choose/zero/) waiver).
     * For further guidance, consider the chapter on [Machine Learning Model Licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-ml.html) from The Turing Way.
