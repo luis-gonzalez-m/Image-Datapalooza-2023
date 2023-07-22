@@ -1,4 +1,4 @@
-To meet the goals and motivations of this event, and to comply with the requirements and the Data Management Plan (DMP) associated with the NSF grants supporting this event, all data, model, and code products generated or augmented at and for Image Datapalooza must adhere to [FAIR principles](https://www.go-fair.org/fair-principles/).
+To meet the goals and motivations of this event, and to comply with the requirements and the Data Management Plan (DMP) associated with the NSF grants supporting this event, all data, model, and code products generated or augmented at and for Image Datapalooza must adhere to [FAIR principles](https://www.go-fair.org/fair-principles/). Datasets that include Indigenous data should also adhere to [CARE principles](https://www.gida-global.org/care).
 
 This means the following policy holds for all digital products developed or created at the event:
 
@@ -9,6 +9,8 @@ This means the following policy holds for all digital products developed or crea
 
 3. Data, documents, tutorials, etc are to be released either to the public domain (for example, by applying a [CC-Zero](https://creativecommons.org/choose/zero/) waiver), or under terms no more restrictive than requiring attribution (such as [CC-BY](https://creativecommons.org/licenses/by/2.0/)).
     * For image and video datasets, this only applies to items that are not already licensed by (and thus used under license from) a third party.
+    * For datasets that include Indigenous data, see [Carroll _et al_ (2020)](https://doi.org/10.5334/dsj-2020-043) and [Carroll _et al_ (2021)](https://doi.org/10.1038/s41597-021-00892-0) for reconciling FAIR and CARE principles for scientific data.
+    * Datasets collected in whole or in part from regions that harbor Indigenous researchers are to at least adhere to the Collective Benefit principle (the _C_ in CARE), even if they have been expressly released from or are otherwise entirely unencumbered by Indigenous rights. Specifically, at a minimum they are to be made available to respective Indigenous researchers with the least obstacles possible.
     * For ML-ready datasets, for storage, version control, and sharing we recommend using [Hugging Face Dataset Hub](https://huggingface.co/docs/hub/datasets-overview), which provides for rich metadata description in the form of a [Dataset Card](https://huggingface.co/docs/hub/datasets-cards).
 
 4. ML models are to be released under an [OSI-approved open source license](https://opensource.org/licenses/), or a [Responsible AI License](https://www.licenses.ai/ai-licenses) (RAIL) (in particular [Open RAIL-M](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses)), or to the public domain (for example, by applying a [CC-Zero](https://creativecommons.org/choose/zero/) waiver).
