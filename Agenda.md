@@ -1,4 +1,4 @@
-_This is currently in draft stage and still developing. Input welcome, please use the [issue tracker](https://github.com/Imageomics-Datapalooza-2023/issues)._
+_This is currently in draft stage and still developing. Input welcome, please use the [issue tracker](https://github.com/Imageomics/Image-Datapalooza-2023/issues)._
 
 ## Day 1 (Aug 14)
 
